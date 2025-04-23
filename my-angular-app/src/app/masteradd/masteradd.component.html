@@ -1,0 +1,56 @@
+<h2>Masteradd Works!</h2>
+<div *ngIf="isList">
+  <button type="button" (click)="switchView();">Add New</button>
+  <div *ngIf="productCategories.length === 0">Loading...</div>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>#</th>
+        <th>#</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of productCategories">
+        <td>{{ item.productCategoryID }}</td>
+        <td>{{ item.name }}</td>
+        <td><button type="button" (click)="edit(item)">Edit</button></td>
+        <td><button type="button" (click)="delete(item.productCategoryID)">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>  
+</div>
+<div *ngIf="!isList">
+  <button type="button" (click)="switchView();">Back</button>
+  <h2>{{productCategory.productCategoryID ==0? 'New' : 'Edit'}}</h2>
+  Type:<input [(ngModel)]="productCategory.name" placeholder="new category" />
+  <table border="1">
+    <thead>
+      <tr>
+        <th><button type="button" (click)="add()">+</button></th>
+        <th>ProductName</th>
+        <th>ProductNumber</th>
+        <th>weight</th>
+        <th>Color</th>
+        <th>Size</th>
+        <th>Cost</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of productCategory.products; let i = index">
+        <td><button type="button" (click)="remove(i)">X</button></td>
+        <td><input type="text" name="item.name" [(ngModel)]="item.name"></td>
+        <td><input type="text" name="item.productNumber" [(ngModel)]="item.productNumber"></td>
+        <td><input type="number" name="item.weight" [(ngModel)]="item.weight"></td>
+        <td><input type="text" name="item.color" [(ngModel)]="item.color"></td>
+        <td><input type="number" name="item.size" [(ngModel)]="item.size"></td>
+        <td><input type="number" name="item.standardCost" [(ngModel)]="item.standardCost"></td>
+        <td><input type="number" name="item.listPrice" [(ngModel)]="item.listPrice"></td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" (click)="onSubmit()">Submit</button>
+</div>
+

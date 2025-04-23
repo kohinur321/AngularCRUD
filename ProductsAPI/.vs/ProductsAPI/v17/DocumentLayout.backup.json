@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ANGULAR\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductsDB6/True/SqlTable/dbo.Product.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\migrations\\20240215185511_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\migrations\\20240215185511_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\angular\\productsapi\\productsapi\\migrations\\productsapicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\migrations\\productsapicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Product [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductsDB6/True/SqlTable/dbo.Product.sql",
+              "ToolTip": "dbo.Product [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-16T09:30:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:51:40.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240215185511_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Migrations\\20240215185511_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Migrations\\20240215185511_InitialCreate.cs",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Migrations\\20240215185511_InitialCreate.cs",
+              "RelativeToolTip": "ProductsAPI\\Migrations\\20240215185511_InitialCreate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:59:51.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsAPIContext.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeToolTip": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBMAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:46:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\appsettings.json",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T05:55:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:39:19.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:04:46.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsAPIContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Migrations\\ProductsAPIContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Migrations\\ProductsAPIContextModelSnapshot.cs",
+              "ToolTip": "D:\\ANGULAR\\ProductsAPI\\ProductsAPI\\Migrations\\ProductsAPIContextModelSnapshot.cs",
+              "RelativeToolTip": "ProductsAPI\\Migrations\\ProductsAPIContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:59:58.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
